@@ -1,5 +1,10 @@
 # ChisugaShotai/千菅書体
 An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai and Astalia and Star Moon。and YshiPen-Shuti .一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生、末绮楷书、月星楷、Y式筆書。
+## 项目简介
+2020 年 12 月，日本著名字体厂商 FONTWORKS 在 GitHub 上发布了 7 款日文字体，分别为 Train、Klee、Stick、Rock-n-Roll、Reggae、Rampart 和 DotGothic16，根据 SIL Open Font License 1.1 授权许可开源。7 款开源日文字体各有各的特点，而这 7 款字体中，字符数量最多的是 Klee。
+
+这是一款有着日本教科书体风格的字体，兼有仿宋和楷体的特点。一些 DIY 字体爱好者曾先后用仿宋等字体补全这款字体，作为手机系统的美化字体移植在 iOS、Android 等手机系统中，受到很多玩机发烧友的欢迎。不过这样补全的字体有一些不足之处。 第一，原有字体和后补字体之间有着一定的差异，致使一些不同的文字（如 Klee 原有汉字与后补简体字）混排之后会有一定的违和感。 第二，由于补字所用的字体为商业版权字体，补全之后不可用于商业用途，还会有侵权的风险。
+
 ## 预览
 
 
