@@ -31,4 +31,4 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 - [芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)
 - [月星楷](https://github.com/GuiWonder/MoonStarsKai)
 - [计划楷](https://github.com/Des-Magmeta/PlanKai)
-- 由[「BridgeRiver」](https://github.com/BridgeRiver)提供的[「大桥和楷书体」](https://github.com/BridgeRiver/BRWakaishotai?tab=readme-ov-file)
+- [「BridgeRiver」](https://github.com/BridgeRiver):提供部分简体字字形的[「大桥和楷书体」](https://github.com/BridgeRiver/BRWakaishotai?tab=readme-ov-file)
