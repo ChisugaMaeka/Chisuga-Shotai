@@ -3,7 +3,7 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 ## 项目简介
 2020 年 12 月，日本著名字体厂商 FONTWORKS 在 GitHub 上发布了 7 款日文字体，分别为 Train、Klee、Stick、Rock-n-Roll、Reggae、Rampart 和 DotGothic16，根据 SIL Open Font License 1.1 授权许可开源。7 款开源日文字体各有各的特点，而这 7 款字体中，字符数量最多的是 [Klee One](https://github.com/fontworks-fonts/Klee) 
 
-这是一款有着日本教科书体风格的字体，兼有仿宋和楷体的特点。该字体拥有多种衍生版本，如[「霞鹜文楷」](https://github.com/lxgw/LxgwWenkai)、[「芫荽」](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」](https://github.com/ItMarki/jyunsaikaai) 、[「计划楷」](https://github.com/Des-Magmeta/PlanKai)、「末绮楷书」、[「月星楷」](https://github.com/GuiWonder/MoonStarsKai)等。提供了更多对字形的选择性，以及增加了更多字符。
+这是一款有着日本教科书体风格的字体，兼有仿宋和楷体的特点。该字体拥有多种衍生版本，如[「霞鹜文楷」](https://github.com/lxgw/LxgwWenkai)、[「芫荽」](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」](https://github.com/ItMarki/jyunsaikaai) [「Y式筆書」](https://github.com/Steve-Yuu/YshiPen-Shuti)、[「计划楷」](https://github.com/Des-Magmeta/PlanKai)、「末绮楷书」、[「月星楷」](https://github.com/GuiWonder/MoonStarsKai)等。提供了更多对字形的选择性，以及增加了更多字符。
 
 ## 预览
 
