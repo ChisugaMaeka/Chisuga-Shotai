@@ -32,7 +32,7 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 - [芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)
 - [月星楷](https://github.com/GuiWonder/MoonStarsKai)
 - [计划楷](https://github.com/Des-Magmeta/PlanKai)
-- [「BridgeRiver」](https://github.com/BridgeRiver):提供部分简体字字形的[「大桥和楷书体」](https://github.com/BridgeRiver/BRWakaishotai?tab=readme-ov-file)
+- [BridgeRiver](https://github.com/BridgeRiver):提供部分简体字字形的[大桥和楷书体](https://github.com/BridgeRiver/BRWakaishotai?tab=readme-ov-file)
 ## 联系方式
 - [「bilibili」](https://b23.tv/AYiFbly)
 - [「小红书」](https://www.xiaohongshu.com/user/profile/6219bcca00000000210268ed?xsec_token=YBSV-nCtMA2r3dFIoYmb2QQzvLUGZwA2ZeSBY9k4grkyc%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=6219bcca00000000210268ed&apptime=1753278861&share_id=23fd6d5c8d7849779bef0c6cd0493074&share_channel=copy_link)
