@@ -19,8 +19,11 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 - 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。
 - 这款字体可以自由传播、分享，或者将字体安装于系统、软件或 APP 中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
 - 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL 1.1](https://scripts.sil.org/OFL) 公开。
+
+### 限制
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 许可与条件中第一条的规定， 禁止单独出售字体文件(OTF/TTF 文件)的行为。
 - 该字体不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授权许可下发行。
+- 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「千菅」「Chisuga」，基于本字体二次衍生的字体，名称不可出现「千菅」或「Chisuga」字样。
 
 
 ## 鸣谢
