@@ -11,7 +11,7 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 ![](Chisuga预览2.png)
 ![](Chisuga预览3.png)
 
-
+![](pingtu-1751542415987.png)![](pingtu-1751542430995.png)![](Chisuga预览3.png)
 ## 授权信息
 
 本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目。Klee 是 FONTWORKS 的商标。
