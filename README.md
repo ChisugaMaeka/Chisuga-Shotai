@@ -8,7 +8,7 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 
 ## 预览
 ![](Chisuga-Shotai/字体预览/Chisuga预览1.png)
-![](Chisuga预览2.png)
+![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%881.png)
 ![](Chisuga预览3.png)
 
 ![](pingtu-1751542415987.png)![](pingtu-1751542430995.png)![](Chisuga预览3.png)
