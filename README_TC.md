@@ -1,4 +1,5 @@
-#### 其他語言版本： [繁體中文](README_TC.md)
+#### 其他語言版本：
+[「简体中文」](README.md)「繁體中文」
 # ChisugaShotai/千菅書體
 An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai and Astalia and Star Moon。and YshiPen-Shuti .一款適合中日文混排的開源中文字體，基於 Ysabeau、 Klee One、霞鶩文楷衍生、末綺楷書、月星楷、Y式筆書。
 ## 項目簡介
