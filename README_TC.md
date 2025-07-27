@@ -1,7 +1,7 @@
 #### 其他語言版本：
 [「简体中文」](README.md)「繁體中文」
 # ChisugaShotai/千菅書體
-An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai and Astalia and Star Moon。and YshiPen-Shuti .一款適合中日文混排的開源中文字體，基於 Ysabeau、 Klee One、霞鶩文楷衍生、末綺楷書、月星楷、Y式筆書。
+An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai and Astalia and Star Moon。and YshiPen-Shuti .一款適合中日文混排的開源中文字體，基於 Ysabeau、 Klee One、霞鶩文楷、末綺楷書、月星楷、Y式筆書衍生。
 ## 項目簡介
 2020 年 12 月，日本著名字體廠商 FONTWORKS 在 GitHub 上發布了 7 款日文字體，分別爲 **Train、Klee、Stick、Rock-n-Roll、Reggae、Rampart 和 DotGothic16**，根據 SIL Open Font License 1.1 授權許可開源。7 款開源日文字體各有各的特點，而這 7 款字體中，字符數量最多的是 [Klee One](https://github.com/fontworks-fonts/Klee)
 
@@ -34,7 +34,7 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 ## 鳴謝
 - [FONTWORKS 株式會社](http://fontworks.co.jp) ：提供原版開源字體 Klee； [開發者 GitHub 主頁](https://github.com/fontworks-fonts/)
 - [lxgw](https://github.com/lxgw) ：提供基於 Klee 補全簡體漢字的 [霞鶩文楷](https://github.com/lxgw/LxgwWenKai) 、 [霞鶩文楷GB](https://github.com/lxgw/LxgwWenKaiGB)
-- [Steve-Yuu](https://github.com/Steve-Yuu)：提供傳統字形的 [Y式筆書體](https://github.com/Steve-Yuu/YshiPen-Shuti)
+- [Steve-Yuu](https://github.com/Steve-Yuu)：提供傳統字形的 [Y式筆書](https://github.com/Steve-Yuu/YshiPen-Shuti)
 - [芫荽](https://github.com/ButTaiwan/iansui)
 - [芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)
 - [月星楷](https://github.com/GuiWonder/MoonStarsKai)
