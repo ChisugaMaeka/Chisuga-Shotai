@@ -7,7 +7,7 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 这是一款有着日本教科书体风格的字体，兼有仿宋和楷体的特点。该字体拥有多种衍生版本，如[「霞鹜文楷」](https://github.com/lxgw/LxgwWenkai)、[「芫荽」](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」](https://github.com/ItMarki/jyunsaikaai)、[「Y式筆書」](https://github.com/Steve-Yuu/YshiPen-Shuti)、[「计划楷」](https://github.com/Des-Magmeta/PlanKai)、[「末绮楷书」](https://github.com/Ayaginu-Sue/Astalia)、[「月星楷」](https://github.com/GuiWonder/MoonStarsKai)等。提供了更多对字形的选择性，以及增加了更多字符。
 
 ## 预览
-![](Chisuga预览1.png)
+![](Chisuga-Shotai/字体预览/Chisuga预览1.png)
 ![](Chisuga预览2.png)
 ![](Chisuga预览3.png)
 
