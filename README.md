@@ -10,7 +10,7 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 ## 预览
 ![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%881.png)
 ![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%882.png)
-![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%883(%E6%96%B0%EF%BC%89.png)
+![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%883(%E6%96%B0%EF%BC%89).png)
 ![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%886(%E6%96%B0).png)
 然后是来自B站up[清一色の](https://b23.tv/yojv92t)对「秋風恋歌」以及「梅雨恋歌」的古典日语 汉文训读填词进行字体预览展示
 
