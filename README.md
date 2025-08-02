@@ -37,7 +37,7 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 - [lxgw](https://github.com/lxgw) ：提供基于 Klee 补全简体汉字的 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 、 [霞鹜文楷GB](https://github.com/lxgw/LxgwWenKaiGB)
 - [Steve-Yuu](https://github.com/Steve-Yuu)：提供传统字形的 [Y式筆書](https://github.com/Steve-Yuu/YshiPen-Shuti)
 - [芫荽](https://github.com/ButTaiwan/iansui)
-- [芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)
+- [Mark Li](https://github.com/GuiWonder):[芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)
 - [GuiWonder](https://github.com/GuiWonder):[月星楷](https://github.com/GuiWonder/MoonStarsKai)
 - [Des-Magmeta](https://github.com/Des-Magmeta):[计划楷](https://github.com/Des-Magmeta/PlanKai)
 - [BridgeRiver](https://github.com/BridgeRiver): 提供部分简体字字形的 [大桥和楷书体](https://github.com/BridgeRiver/BRWakaishotai?tab=readme-ov-file)
