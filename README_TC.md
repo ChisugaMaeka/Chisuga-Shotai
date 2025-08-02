@@ -36,10 +36,10 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 - [FONTWORKS 株式會社](http://fontworks.co.jp) ：提供原版開源字體 Klee； [開發者 GitHub 主頁](https://github.com/fontworks-fonts/)
 - [lxgw](https://github.com/lxgw) ：提供基於 Klee 補全簡體漢字的 [霞鶩文楷](https://github.com/lxgw/LxgwWenKai) 、 [霞鶩文楷GB](https://github.com/lxgw/LxgwWenKaiGB)
 - [Steve-Yuu](https://github.com/Steve-Yuu)：提供傳統字形的 [Y式筆書](https://github.com/Steve-Yuu/YshiPen-Shuti)
-- [芫荽](https://github.com/ButTaiwan/iansui)
-- [芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)
-- [月星楷](https://github.com/GuiWonder/MoonStarsKai)
-- [計劃楷](https://github.com/Des-Magmeta/PlanKai)
+- [But Ko](https://github.com/ButTaiwan):[芫荽](https://github.com/ButTaiwan/iansui)
+- [Mark Li](https://github.com/GuiWonder):[芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)
+- [GuiWonder](https://github.com/GuiWonder):[月星楷](https://github.com/GuiWonder/MoonStarsKai)
+- [Des-Magmeta](https://github.com/Des-Magmeta):[計劃楷](https://github.com/Des-Magmeta/PlanKai)
 - [BridgeRiver](https://github.com/BridgeRiver): 提供部分簡體字字形的 [大橋和楷書體](https://github.com/BridgeRiver/BRWakaishotai?tab=readme-ov-file)
 - [清一色の](https://b23.tv/yojv92t): 提供字體預覽的漢詩
 ## 聯系方式
