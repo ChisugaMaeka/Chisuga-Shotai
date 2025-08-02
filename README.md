@@ -39,7 +39,7 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 - [芫荽](https://github.com/ButTaiwan/iansui)
 - [芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)
 - [月星楷](https://github.com/GuiWonder/MoonStarsKai)
-- [计划楷](https://github.com/Des-Magmeta/PlanKai)
+- [Des-Magmeta](https://github.com/Des-Magmeta):[计划楷](https://github.com/Des-Magmeta/PlanKai)
 - [BridgeRiver](https://github.com/BridgeRiver): 提供部分简体字字形的 [大桥和楷书体](https://github.com/BridgeRiver/BRWakaishotai?tab=readme-ov-file)
 - [清一色の](https://b23.tv/yojv92t): 提供字体预览的汉诗
 ## 联系方式
