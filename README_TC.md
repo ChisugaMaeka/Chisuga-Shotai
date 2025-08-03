@@ -12,9 +12,8 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 ![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%882.png)
 ![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%883(%E6%96%B0).png)
 ![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%887(%E6%96%B0).png)
-然後是來自B站up[清一色の](https://b23.tv/yojv92t)對「秋風戀歌」以及「梅雨戀歌」的古典日語 漢文訓讀填詞進行字體預覽展示
+然後是來自B站up[清一色の](https://b23.tv/yojv92t)對「梅雨戀歌」的古典日語 漢文訓讀填詞進行字體預覽展示
 
-漢詩版本![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%884.png)
 漢文訓讀體節選![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%885.png)
 ## 授權信息
 
