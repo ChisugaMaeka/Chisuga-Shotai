@@ -12,7 +12,7 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 ![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%882.png)
 ![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%883(%E6%96%B0).png)
 ![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%886(%E6%96%B0).png)
-然后是来自B站up[清一色の](https://b23.tv/yojv92t)对[「梅雨恋歌」](https://b23.tv/RjNr2K7)的古典日语 汉文训读填词进行字体预览展示
+然后是来自B站up[淸一色の](https://b23.tv/yojv92t)对[「梅雨恋歌」](https://b23.tv/RjNr2K7)的古典日语 汉文训读填词进行字体预览展示
 
 汉文训读体节选![](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88/Chisuga%E9%A2%84%E8%A7%885.png)
 ## 授权信息
@@ -40,7 +40,7 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 - [GuiWonder](https://github.com/GuiWonder):[月星楷](https://github.com/GuiWonder/MoonStarsKai)
 - [Des-Magmeta](https://github.com/Des-Magmeta):[计划楷](https://github.com/Des-Magmeta/PlanKai)
 - [BridgeRiver](https://github.com/BridgeRiver): 提供部分简体字字形的 [大桥和楷书体](https://github.com/BridgeRiver/BRWakaishotai?tab=readme-ov-file)
-- [清一色の](https://b23.tv/yojv92t): 提供字体预览的汉诗
+- [淸一色の](https://b23.tv/yojv92t): 提供字体预览的汉诗
 ## 联系方式
 - [「bilibili」](https://b23.tv/AYiFbly)
 - [「小红书」](https://www.xiaohongshu.com/user/profile/6219bcca00000000210268ed?xsec_token=YBSV-nCtMA2r3dFIoYmb2QQzvLUGZwA2ZeSBY9k4grkyc%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=6219bcca00000000210268ed&apptime=1753278861&share_id=23fd6d5c8d7849779bef0c6cd0493074&share_channel=copy_link)
