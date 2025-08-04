@@ -33,7 +33,7 @@ An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai an
 
 ## 鸣谢
 - [FONTWORKS 株式会社](http://fontworks.co.jp) ：提供原版开源字体 Klee； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
-- [lxgw](https://github.com/lxgw) ：提供基于 Klee 补全简体汉字的 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 、 [霞鹜文楷GB](https://github.com/lxgw/LxgwWenKaiGB)
+- [lxgw](https://github.com/lxgw) ：提供基于 Klee 补全简体汉字的 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 、 [霞鹜文楷GB](https://github.com/lxgw/LxgwWenKaiGB)和部分古籍用字的[彭蠡文楷](https://github.com/lxgw/Pengli)
 - [Steve-Yuu](https://github.com/Steve-Yuu)：提供传统字形的 [Y式筆書](https://github.com/Steve-Yuu/YshiPen-Shuti)
 - [But Ko](https://github.com/ButTaiwan):[芫荽](https://github.com/ButTaiwan/iansui)
 - [Mark Li](https://github.com/GuiWonder):[芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)
