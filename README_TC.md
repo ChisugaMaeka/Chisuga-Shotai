@@ -1,7 +1,7 @@
 #### 其他語言版本：
 [「简体中文」](README.md)「繁體中文」
 # ChisugaShotai/千菅書體
-An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai and Astalia and Star Moon。and YshiPen-Shuti .一款適合中日文混排的開源中文字體，基於 Ysabeau、 Klee One、霞鶩文楷、末綺楷書、月星楷、Y式筆書衍生。
+一款日標字形優先顯示，適合日語學習者使用、適合中日文混排的开源中文字體，基於 Ysabeau、 Klee One、霞鶩文楷、末綺楷書、月星楷、Y式筆書衍生。
 ## 項目簡介
 2020 年 12 月，日本著名字體廠商 FONTWORKS 在 GitHub 上發布了 7 款日文字體，分別爲 **Train、Klee、Stick、Rock-n-Roll、Reggae、Rampart 和 DotGothic16**，根據 SIL Open Font License 1.1 授權許可開源。7 款開源日文字體各有各的特點，而這 7 款字體中，字符數量最多的是 [Klee One](https://github.com/fontworks-fonts/Klee)
 
