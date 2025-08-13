@@ -25,6 +25,10 @@
 本字體中「示」僅在作部件且位於其他部件下方時「豎鉤」作「豎」。如：「標」「款」。
 
 
+## 字體獲取
+移步至底部的[Releases](https://github.com/ChisugaMaeka/Chisuga-Shotai/releases)處進行下載獲取
+
+
 ## 授權信息
 
 本字體是基於 SIL Open Font License 1.1 改造的 FONTWORKS 開發並發布的 [Klee](https://github.com/fontworks-fonts/Klee) 開源項目。Klee 是 FONTWORKS 的商標。
