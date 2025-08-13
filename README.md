@@ -24,6 +24,9 @@
 
 本字体中「示」仅在作部件且位于其他部件下方时「竖钩」作「竖」。如：「標」「款」。
 
+## 字体下载
+移步至底部的[Releases](https://github.com/ChisugaMaeka/Chisuga-Shotai/releases)处进行下载
+
 
 ## 授权信息
 
