@@ -27,6 +27,8 @@
 ## 字体下载
 移步至底部的[Releases](https://github.com/ChisugaMaeka/Chisuga-Shotai/releases)处进行下载
 
+前往[猫啃网](https://www.maoken.com/freefonts/26399.html)进行下载
+
 
 ## 授权信息
 
