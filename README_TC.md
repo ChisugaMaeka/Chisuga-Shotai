@@ -28,6 +28,8 @@
 ## 字體獲取
 移步至底部的[Releases](https://github.com/ChisugaMaeka/Chisuga-Shotai/releases)處進行下載獲取
 
+前往[貓齦網](https://www.maoken.com/freefonts/26399.html)進行下載獲取
+
 
 ## 授權信息
 
