@@ -1,6 +1,6 @@
 #### 其他语言版本：
 「简体中文」 [「繁體中文」](README_TC.md) 
-[ChisugaShotai-Cl版简介](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/Chisuga-Shotai-CL/%E7%AE%80%E4%BB%8B.md)
+### 「[ChisugaShotai-Cl版简介]」(https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/Chisuga-Shotai-CL/%E7%AE%80%E4%BB%8B.md)
 # ChisugaShotai/千菅書体
 一款日标字形优先显示，适合日语学习者使用、适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷、末绮楷书、月星楷、Y式筆書衍生。
 ## 项目简介
