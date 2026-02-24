@@ -2,7 +2,7 @@
 「简体中文」 [「繁體中文」](README_TC.md) 
 ### [「ChisugaShotai-Cl版简介」](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/Chisuga-Shotai-CL/%E7%AE%80%E4%BB%8B.md)
 # ChisugaShotai/千菅書体
-一款日标字形优先显示，适合日语学习者使用、适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷、末绮楷书、月星楷、Y式筆書衍生。
+一款以夹带私货的日标字形优先显示，适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷、末绮楷书、月星楷、Y式筆書衍生。
 ## 项目简介
 2020 年 12 月，日本著名字体厂商 FONTWORKS 在 GitHub 上发布了 7 款日文字体，分别为 **Train、Klee、Stick、Rock-n-Roll、Reggae、Rampart 和 DotGothic16**，根据 SIL Open Font License 1.1 授权许可开源。7 款开源日文字体各有各的特点，而这 7 款字体中，字符数量最多的是 [Klee One](https://github.com/fontworks-fonts/Klee) 
 
