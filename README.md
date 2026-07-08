@@ -1,3 +1,5 @@
+#※此字体处于暂停更新中，待作者技术提升后再重新回来修缮，并不推荐各位使用这款“半成品字体”。
+
 #### 其他语言版本：
 「简体中文」 [「繁體中文」](README_TC.md) 
 ### [「ChisugaShotai-Cl版简介」](https://github.com/ChisugaMaeka/Chisuga-Shotai/blob/main/Chisuga-Shotai-CL/%E7%AE%80%E4%BB%8B.md)
